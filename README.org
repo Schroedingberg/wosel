@@ -1,0 +1,7 @@
+* A Web of Science client for Emacs
+
+
+An Emacs interface to browse Web of Science and extract data.
+* Objectives
+ - [ ] Write core
+ - [ ] Implement BibTeX export
