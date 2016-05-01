@@ -4,4 +4,7 @@
 An Emacs interface to browse Web of Science and extract data.
 * Objectives
  - [ ] Write core
+   - [ ] Authentification dialog
+   - [ ] Major mode design
  - [ ] Implement BibTeX export
+ - [ ] Helm BibteX integration
